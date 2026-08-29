@@ -1,0 +1,25 @@
+{
+  "BOT_TOKEN": "8890505980:AAFECxF9miz3bwoyVQ_GAMUYpFIsn55Har4",
+  "OWNER_IDS": [
+    8236242494,
+    8434571115
+  ],
+  "BOT_USERNAME": "FunPayOtcess_bot",
+  "MANAGER_USERNAME": "FunpaySafetys",
+  "SUPPORT_USERNAME": "FunpaySafetys",
+  "MINIAPP_URL": "https://min.de1.netrun.io",
+  "API_ENABLED": false,
+  "API_HOST": "0.0.0.0",
+  "API_PORT": 8080,
+  "COMMISSION_PERCENT": 1.0,
+  "MIN_DEALS_WITHDRAW": 2,
+  "RATES": {
+    "RUB": 80,
+    "KZT": 480,
+    "UAH": 50,
+    "BYN": 3,
+    "GRAM": 2,
+    "STARS": 60
+  },
+  "SERVICE_NAME": "Funpay Market"
+}
